@@ -57,26 +57,27 @@ The application extracts:
 
 # Project Structure
 
+```text
 Cognifyz_Software_Development/
-
+│
 ├── Task_1_Number_Guessing_Game/
 │   └── quiz_game.py
-
+│
 ├── Task_2_Number_Patterns/
 │   └── number_patterns.py
-
+│
 ├── Task_3_CRUD_Application/
 │   └── task_manager.py
-
+│
 ├── Task_4_Temperature_Converter/
 │   └── temperature_converter.py
-
+│
 ├── Task_5_Persistent_CRUD/
 │   └── task_manager.py
-
+│
 ├── Task_6_Web_Scraping/
 │   └── web_scraper.py
-
+│
 └── README.md
 
 # How to Run
